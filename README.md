@@ -3,7 +3,10 @@ Aprender a trabalhar com este tipo de ferramenta é tão importante quanto apren
 ## Curso Prático de GIT e GITHUB.
 :octocat: Este repositório foi usado como um dos exemplos do curso.
 ## Playlist do curso:
-[![gitegithub](https://img.youtube.com/vi/FF1f4bKYhoo/0.jpg)](https://www.youtube.com/playlist?list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj "git e GitHub")
+[git e GitHub](https://www.youtube.com/playlist?list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj)
+
+
+[![gitegithub](https://img.youtube.com/vi/FF1f4bKYhoo/0.jpg)](https://www.youtube.com/playlist?list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj "Assistir no YouTube")
 ## Autor
 Professor José de Assis
 ## Licença
