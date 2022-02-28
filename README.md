@@ -1,3 +1,5 @@
+![GitHub](https://img.shields.io/github/license/professorjosedeassis/git)
+
 # Curso prático - git e GitHub
 Aprender a trabalhar com este tipo de ferramenta é tão importante quanto aprender lógica de programação. As empresas de tecnologia do mundo inteiro usam este tipo de ferramenta. Com o **git** e a plataforma de hospedagem **GitHub** você pode armazenar uma cópia do seu projeto nas nuvens, você pode versionar, rastrear e recuperar uma versão anterior do seu projeto e você pode também clonar o projeto e trabalhar em equipe. No **GitHub** você pode contribuir com diversos projetos da comunidade e pode criar um portfolio com os seus projetos, conseguindo ser notado e comprovando que você sabe fazer. Muitas empresas exigem o **git** como pré-requisito e também usam o **GitHub** como ferramenta para contratação.
 
