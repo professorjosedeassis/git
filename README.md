@@ -1,7 +1,7 @@
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/git)
 
-# Curso prático - git e GitHub
-Aprender a trabalhar com este tipo de ferramenta é tão importante quanto aprender lógica de programação. As empresas de tecnologia do mundo inteiro usam este tipo de ferramenta. Com o **git** e a plataforma de hospedagem **GitHub** você pode armazenar uma cópia do seu projeto nas nuvens, você pode versionar, rastrear e recuperar uma versão anterior do seu projeto e você pode também clonar o projeto e trabalhar em equipe. No **GitHub** você pode contribuir com diversos projetos da comunidade e pode criar um portfolio com os seus projetos, conseguindo ser notado e comprovando que você sabe fazer. Muitas empresas exigem o **git** como pré-requisito e também usam o **GitHub** como ferramenta para contratação.
+# Git e GitHub para iniciantes - Curso prático
+As empresas de tecnologia do mundo inteiro usam este tipo de ferramenta, muitas delas exigindo o **Git** como pré-requisito e também usando o **GitHub** como ferramenta para contratação. Com o **Git** e a plataforma de hospedagem **GitHub** você pode armazenar uma cópia do seu projeto nas nuvens, gerenciar versões e trabalhar em equipe. No **GitHub** você pode contribuir com diversos projetos de empresas e também da comunidade, pode criar um portfolio e muito mais...
 
 :octocat: Este repositório foi usado como um dos exemplos do curso.
 ### Autor
@@ -12,6 +12,8 @@ Professor José de Assis
 ![YouTube Video Views](https://img.shields.io/youtube/views/FF1f4bKYhoo?style=social)
 ### Playlist
 [Iniciar curso](https://www.youtube.com/playlist?list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj)
+### Certificado
+[Iniciar teste](https://forms.gle/R7iabpjXkbfjwaWj8)
 ## Como apoiar os cursos gratuitos e projetos?
 Você pode:
 - Inscrever-se no canal do YouTube - [INSCREVA-SE!](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
