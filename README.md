@@ -1,24 +1,24 @@
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/git)
 
-# Git e GitHub para iniciantes - Curso prático
+# Git e GitHub para iniciantes
 As empresas de tecnologia do mundo inteiro usam este tipo de ferramenta, muitas delas exigindo o **Git** como pré-requisito e também usando o **GitHub** como ferramenta para contratação. Com o **Git** e a plataforma de hospedagem **GitHub** você pode armazenar uma cópia do seu projeto nas nuvens, gerenciar versões e trabalhar em equipe. No **GitHub** você pode contribuir com diversos projetos de empresas e também da comunidade, pode criar um portfolio e muito mais...
 
-:octocat: Este repositório foi usado como um dos exemplos do curso.
+:octocat: Este repositório foi usado como um dos exemplos do tutorial.
 ### Autor
 Professor José de Assis
-### Apresentação do curso
+### Apresentação
 [![gitegithub](https://img.youtube.com/vi/FF1f4bKYhoo/0.jpg)](https://www.youtube.com/playlist?list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj "Assistir no YouTube")
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/FF1f4bKYhoo?style=social)
 ### Playlist
-[Iniciar curso](https://www.youtube.com/playlist?list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj)
+[Iniciar tutorial](https://www.youtube.com/playlist?list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj)
 ### Certificado
 [Iniciar teste](https://forms.gle/R7iabpjXkbfjwaWj8)
-## Como apoiar os cursos gratuitos e projetos?
+## Como apoiar os tutoriais e projetos?
 ### Você pode:
 :heavy_check_mark: Inscrever-se no canal do YouTube - [INSCREVA-SE!](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
 
-:heavy_check_mark: Compartilhar os cursos e projetos
+:heavy_check_mark: Compartilhar os tutoriais e projetos
 
 :heavy_check_mark: Seguir-me nas redes sociais:
 <p align="left">
