@@ -6,8 +6,8 @@ As empresas de tecnologia do mundo inteiro usam este tipo de ferramenta, muitas 
 :octocat: Este repositório foi usado como um dos exemplos do tutorial Git e GitHub.
 ### Autor
 Professor José de Assis
-### Tutorial Git e GitHub
-[![gitegithub](https://img.youtube.com/vi/FF1f4bKYhoo/0.jpg)](https://www.youtube.com/playlist?list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj "Assistir no YouTube")
+### Apresentação
+[![gitegithub](https://img.youtube.com/vi/FF1f4bKYhoo/0.jpg)](https://youtu.be/FF1f4bKYhoo?si=qvbcajvGGSBLs1Mq "Assistir no YouTube")
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/FF1f4bKYhoo?style=social)
 ### Iniciar tutorial:
