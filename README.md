@@ -3,7 +3,7 @@
 # Git e GitHub para iniciantes
 As empresas de tecnologia do mundo inteiro usam este tipo de ferramenta, muitas delas exigindo o **Git** como pré-requisito e também usando o **GitHub** como ferramenta para contratação. Com o **Git** e a plataforma de hospedagem **GitHub** você pode armazenar uma cópia do seu projeto nas nuvens, gerenciar versões e trabalhar em equipe. No **GitHub** você pode contribuir com diversos projetos de empresas e também da comunidade, pode criar um portfolio e muito mais...
 
-:octocat: Este repositório foi usado como um dos exemplos do tutorial Git e GitHub.
+:octocat: Este repositório foi usado como um dos exemplos do curso Git e GitHub.
 ### Autor
 Professor José de Assis
 ### Apresentação
