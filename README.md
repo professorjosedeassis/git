@@ -11,7 +11,9 @@ Professor José de Assis
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/FF1f4bKYhoo?style=social)
 ### Iniciar curso:
-[Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj)
+▶️ [Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj)
+### Certificado deste curso:
+🎓 [Iniciar teste](https://docs.google.com/forms/d/e/1FAIpQLSf4f-CAE9NwbXU2HIwkQpjRZ20uihxazdQQq7LbiT_HmRJAiA/viewform)
 ## Como apoiar os tutoriais e projetos?
 ### Você pode me pagar um café! ☕
 
